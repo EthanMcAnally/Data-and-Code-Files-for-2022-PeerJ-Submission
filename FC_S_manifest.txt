@@ -1,0 +1,63 @@
+sample-id	absolute-filepath
+sample-07-FC	/Users/mcanally23/Documents/FC_fastq_pass/all_filtered_files/18S/barcode07_18S.fastq
+sample-32-FC	/Users/mcanally23/Documents/FC_fastq_pass/all_filtered_files/18S/barcode32_18S.fastq
+sample-18-FC	/Users/mcanally23/Documents/FC_fastq_pass/all_filtered_files/18S/barcode18_18S.fastq
+sample-65-FC	/Users/mcanally23/Documents/FC_fastq_pass/all_filtered_files/18S/barcode65_18S.fastq
+sample-44-FC	/Users/mcanally23/Documents/FC_fastq_pass/all_filtered_files/18S/barcode44_18S.fastq
+sample-68-FC	/Users/mcanally23/Documents/FC_fastq_pass/all_filtered_files/18S/barcode68_18S.fastq
+sample-06-FC	/Users/mcanally23/Documents/FC_fastq_pass/all_filtered_files/18S/barcode06_18S.fastq
+sample-80-FC	/Users/mcanally23/Documents/FC_fastq_pass/all_filtered_files/18S/barcode80_18S.fastq
+sample-56-FC	/Users/mcanally23/Documents/FC_fastq_pass/all_filtered_files/18S/barcode56_18S.fastq
+sample-42-FC	/Users/mcanally23/Documents/FC_fastq_pass/all_filtered_files/18S/barcode42_18S.fastq
+sample-19-FC	/Users/mcanally23/Documents/FC_fastq_pass/all_filtered_files/18S/barcode19_18S.fastq
+sample-77-FC	/Users/mcanally23/Documents/FC_fastq_pass/all_filtered_files/18S/barcode77_18S.fastq
+sample-92-FC	/Users/mcanally23/Documents/FC_fastq_pass/all_filtered_files/18S/barcode92_18S.fastq
+sample-53-FC	/Users/mcanally23/Documents/FC_fastq_pass/all_filtered_files/18S/barcode53_18S.fastq
+sample-29-FC	/Users/mcanally23/Documents/FC_fastq_pass/all_filtered_files/18S/barcode29_18S.fastq
+sample-66-FC	/Users/mcanally23/Documents/FC_fastq_pass/all_filtered_files/18S/barcode66_18S.fastq
+sample-30-FC	/Users/mcanally23/Documents/FC_fastq_pass/all_filtered_files/18S/barcode30_18S.fastq
+sample-05-FC	/Users/mcanally23/Documents/FC_fastq_pass/all_filtered_files/18S/barcode05_18S.fastq
+sample-41-FC	/Users/mcanally23/Documents/FC_fastq_pass/all_filtered_files/18S/barcode41_18S.fastq
+sample-55-FC	/Users/mcanally23/Documents/FC_fastq_pass/all_filtered_files/18S/barcode55_18S.fastq
+sample-79-FC	/Users/mcanally23/Documents/FC_fastq_pass/all_filtered_files/18S/barcode79_18S.fastq
+sample-17-FC	/Users/mcanally23/Documents/FC_fastq_pass/all_filtered_files/18S/barcode17_18S.fastq
+sample-91-FC	/Users/mcanally23/Documents/FC_fastq_pass/all_filtered_files/18S/barcode91_18S.fastq
+sample-28-FC	/Users/mcanally23/Documents/FC_fastq_pass/all_filtered_files/18S/barcode28_18S.fastq
+sample-67-FC	/Users/mcanally23/Documents/FC_fastq_pass/all_filtered_files/18S/barcode67_18S.fastq
+sample-04-FC	/Users/mcanally23/Documents/FC_fastq_pass/all_filtered_files/18S/barcode04_18S.fastq
+sample-54-FC	/Users/mcanally23/Documents/FC_fastq_pass/all_filtered_files/18S/barcode54_18S.fastq
+sample-40-FC	/Users/mcanally23/Documents/FC_fastq_pass/all_filtered_files/18S/barcode40_18S.fastq
+sample-89-FC	/Users/mcanally23/Documents/FC_fastq_pass/all_filtered_files/18S/barcode89_18S.fastq
+sample-16-FC	/Users/mcanally23/Documents/FC_fastq_pass/all_filtered_files/18S/barcode16_18S.fastq
+sample-78-FC	/Users/mcanally23/Documents/FC_fastq_pass/all_filtered_files/18S/barcode78_18S.fastq
+sample-90-FC	/Users/mcanally23/Documents/FC_fastq_pass/all_filtered_files/18S/barcode90_18S.fastq
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
