@@ -1,7 +1,0 @@
-#Data from the FASTQ pass folder imported from the MinION device after basecalling,
-#Sorting, and removing barcodes
-
-#Files concatenated into one file by barcode with the following command in Python
-
-
-
