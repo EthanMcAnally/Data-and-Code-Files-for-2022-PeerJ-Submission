@@ -1,3 +1,3 @@
 # Data-and-Code-Files-for-2022-PeerJ-Submission
 
-#This is a modified bioinformatics workflow for the use of the ONT MinION for bioassesment through diatom-metabarcoding 
+#This is the processing scripts and data for a study evaluating the Oxford Nanpore Technologies MinION for bioassesment through diatom-metabarcoding 
